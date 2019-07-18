@@ -72,6 +72,27 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
+                    "x": 457.8214936247723,
+                    "y": 246.327868852459,
+                    "uniqueID": 563922,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 40
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
                     "x": 398.1056466302368,
                     "y": 334.6575591985428,
                     "uniqueID": 649415,
@@ -99,7 +120,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 0
+                            "ioValue": 40
                         },
                         {
                             "name": "yDist",
@@ -132,6 +153,14 @@
                         },
                         {
                             "name": "3D shape 628167",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 205864",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 297170",
                             "ioValue": 10
                         }
                     ]
@@ -177,6 +206,18 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 865209,
+                    "ap2ID": 563922
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 205864",
+                    "ap1ID": 563922,
+                    "ap2ID": 125816
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 710880",
                     "ap1ID": 649415,
                     "ap2ID": 125816
@@ -186,6 +227,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 649415,
                     "ap2ID": 416244
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 628167",
+                    "ap1ID": 416244,
+                    "ap2ID": 125816
                 },
                 {
                     "ap1Name": "geometry",
