@@ -168,13 +168,13 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 940.5245901639344,
-                    "y": 116.94353369763205,
+                    "x": 938.0364298724954,
+                    "y": 123.1639344262295,
                     "uniqueID": 721644,
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
-                            "ioValue": 90
+                            "ioValue": -90
                         },
                         {
                             "name": "y-axis degrees",
@@ -189,8 +189,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1290.111111111111,
-                    "y": 153.02185792349727,
+                    "x": 1048,
+                    "y": 164,
                     "ioValues": []
                 }
             ],
