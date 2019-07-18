@@ -12,7 +12,7 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Maslow Motor",
-                    "x": 174.1712204007286,
+                    "x": 172.9271402550091,
                     "y": 58.471766848816024,
                     "uniqueID": 638544,
                     "projectID": "188842909",
@@ -26,27 +26,6 @@
                     "uniqueID": 468300,
                     "projectID": "197564175",
                     "ioValues": []
-                },
-                {
-                    "atomType": "Rotate",
-                    "name": "Rotate",
-                    "x": 343.3661202185792,
-                    "y": 94.55009107468123,
-                    "uniqueID": 493529,
-                    "ioValues": [
-                        {
-                            "name": "x-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "y-axis degrees",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "z-axis degrees",
-                            "ioValue": 0
-                        }
-                    ]
                 },
                 {
                     "atomType": "Translate",
@@ -66,6 +45,27 @@
                         {
                             "name": "zDist",
                             "ioValue": 4
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 419.2550091074681,
+                    "y": 72.15664845173042,
+                    "uniqueID": 493529,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": -180
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
                         }
                     ]
                 },
@@ -135,8 +135,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 711.6138433515482,
-                    "y": 110.7231329690346,
+                    "x": 712.8579234972677,
+                    "y": 115.69945355191255,
                     "uniqueID": 125816,
                     "ioValues": [
                         {
@@ -157,6 +157,10 @@
                         },
                         {
                             "name": "3D shape 927729",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 374598",
                             "ioValue": 10
                         }
                     ]
@@ -194,10 +198,15 @@
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
+                    "ap1ID": 638544,
+                    "ap2ID": 493529
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
                     "ap1ID": 468300,
                     "ap2ID": 865209
                 },
-                null,
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 293158",
@@ -215,6 +224,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 865209,
                     "ap2ID": 563922
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 927729",
+                    "ap1ID": 493529,
+                    "ap2ID": 125816
                 },
                 {
                     "ap1Name": "geometry",
