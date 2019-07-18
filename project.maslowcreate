@@ -10,14 +10,105 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Maslow Motor",
+                    "x": 174.1712204007286,
+                    "y": 58.471766848816024,
+                    "uniqueID": 638544,
+                    "projectID": "188842909",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "M4 Bolt",
+                    "x": 181.63570127504553,
+                    "y": 192.83242258652095,
+                    "uniqueID": 468300,
+                    "projectID": "197564175",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 335.90163934426226,
+                    "y": 95.79417122040073,
+                    "uniqueID": 544273,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 320.9726775956284,
+                    "y": 215.22586520947175,
+                    "uniqueID": 865209,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 833.5336976320582,
+                    "y": 126.89617486338797,
+                    "uniqueID": 125816,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 569237",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1048,
-                    "y": 164,
+                    "x": 1301.3078324225864,
+                    "y": 166.70673952641164,
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 638544,
+                    "ap2ID": 544273
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 468300,
+                    "ap2ID": 865209
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 125816
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
