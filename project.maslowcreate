@@ -28,6 +28,15 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "Maslow Spool",
+                    "x": 192,
+                    "y": 261,
+                    "uniqueID": 361217,
+                    "projectID": "197909874",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 321,
@@ -133,6 +142,27 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 663,
+                    "y": 264,
+                    "uniqueID": 136880,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 712.8579234972677,
@@ -161,6 +191,10 @@
                         },
                         {
                             "name": "3D shape 374598",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 729056",
                             "ioValue": 10
                         }
                     ]
@@ -208,6 +242,12 @@
                     "ap2ID": 865209
                 },
                 {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 361217,
+                    "ap2ID": 136880
+                },
+                {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 293158",
                     "ap1ID": 865209,
@@ -253,6 +293,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 628167",
                     "ap1ID": 416244,
+                    "ap2ID": 125816
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 374598",
+                    "ap1ID": 136880,
                     "ap2ID": 125816
                 },
                 {
