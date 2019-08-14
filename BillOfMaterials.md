@@ -2,5 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|M4 Bolt|10|0.8999999999999998|https://www.mcmaster.com/92095a190|
-|ET-WGM58AE|1|11|http://www.etonm.com/|
+|Total: |0|$0.00| |
+
+ 3xCOG MSRP: $0.00

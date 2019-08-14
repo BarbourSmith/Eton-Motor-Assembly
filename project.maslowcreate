@@ -102,8 +102,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 498,
-                    "y": 163,
+                    "x": 485,
+                    "y": 150,
                     "uniqueID": 563922,
                     "ioValues": [
                         {
@@ -123,8 +123,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 640,
-                    "y": 202,
+                    "x": 621,
+                    "y": 207,
                     "uniqueID": 416244,
                     "ioValues": [
                         {
@@ -165,8 +165,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 751,
-                    "y": 84,
+                    "x": 749,
+                    "y": 83,
                     "uniqueID": 125816,
                     "ioValues": [
                         {
@@ -223,7 +223,7 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 974,
+                    "x": 1316,
                     "y": 164,
                     "ioValues": []
                 }
