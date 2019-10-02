@@ -39,8 +39,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 321,
-                    "y": 113,
+                    "x": 358,
+                    "y": 97,
                     "uniqueID": 865209,
                     "ioValues": [
                         {
@@ -102,8 +102,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 485,
-                    "y": 150,
+                    "x": 486,
+                    "y": 142,
                     "uniqueID": 563922,
                     "ioValues": [
                         {
@@ -170,6 +170,10 @@
                     "uniqueID": 125816,
                     "ioValues": [
                         {
+                            "name": "3D shape 729056",
+                            "ioValue": ""
+                        },
+                        {
                             "name": "3D shape 293158",
                             "ioValue": 10
                         },
@@ -197,7 +201,8 @@
                             "name": "3D shape 729056",
                             "ioValue": 10
                         }
-                    ]
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Rotate",
@@ -224,7 +229,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
