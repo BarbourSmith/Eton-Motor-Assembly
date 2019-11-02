@@ -18,7 +18,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 10
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -36,12 +36,13 @@
                     ]
                 },
                 {
-                    "atomType": "CutAway",
-                    "name": "Cut Away",
-                    "x": 575,
-                    "y": 162,
-                    "uniqueID": 989211,
-                    "ioValues": []
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 617,
+                    "y": 178,
+                    "uniqueID": 164245,
+                    "ioValues": [],
+                    "selectedColorIndex": "12"
                 },
                 {
                     "atomType": "Translate",
@@ -60,7 +61,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 0
+                            "ioValue": -10
                         }
                     ]
                 },
@@ -83,12 +84,12 @@
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
                     "ap1ID": 293993,
-                    "ap2ID": 989211
+                    "ap2ID": 164245
                 },
                 {
                     "ap1Name": "geometry",
                     "ap2Name": "geometry",
-                    "ap1ID": 989211,
+                    "ap1ID": 164245,
                     "ap2ID": 898807
                 },
                 {
