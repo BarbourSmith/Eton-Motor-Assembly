@@ -4,7 +4,10 @@
  |----|----------|-----|-----|
 |Amsteel Blue 3/16|11|$0.67|http://www.amsteelblue.com/amsteel-blue-3-16-synthetic-rope-by-the-foot-4-900-lbs/|
 |ET-WGM58AE|1|$11.00|http://www.etonm.com/|
-|M4 Bolt|10|$0.90|https://www.mcmaster.com/92095a190|
-|Total: |22|$12.57| |
+|M4 x 20mm Bolt|12|$1.43|https://www.mcmaster.com/91239a152|
+|M4 Bolt|4|$0.36|https://www.mcmaster.com/92095a190|
+|Side Steel Plate|13|$7.80|www.example.com|
+|Spool Center|1|$3.00|www.example.com|
+|Total: |42|$24.26| |
 
- 3xCOG MSRP: $37.71
+ 3xCOG MSRP: $72.77

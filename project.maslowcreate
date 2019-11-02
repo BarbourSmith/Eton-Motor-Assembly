@@ -21,8 +21,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4 Bolt",
-                    "x": 177,
-                    "y": 146,
+                    "x": 156,
+                    "y": 207,
                     "uniqueID": 468300,
                     "projectID": "197564175",
                     "ioValues": []
@@ -30,8 +30,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "Maslow Spool",
-                    "x": 192,
-                    "y": 261,
+                    "x": 162,
+                    "y": 292,
                     "uniqueID": 361217,
                     "projectID": "197909874",
                     "ioValues": []
@@ -39,8 +39,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 358,
-                    "y": 97,
+                    "x": 328,
+                    "y": 179,
                     "uniqueID": 865209,
                     "ioValues": [
                         {
@@ -81,27 +81,6 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 424,
-                    "y": 230,
-                    "uniqueID": 649415,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": -28
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": 0
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
                     "x": 486,
                     "y": 142,
                     "uniqueID": 563922,
@@ -123,8 +102,29 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 621,
-                    "y": 207,
+                    "x": 551,
+                    "y": 195,
+                    "uniqueID": 649415,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": -28
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 700,
+                    "y": 218,
                     "uniqueID": 416244,
                     "ioValues": [
                         {
@@ -144,8 +144,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 663,
-                    "y": 264,
+                    "x": 751,
+                    "y": 274,
                     "uniqueID": 136880,
                     "ioValues": [
                         {
@@ -165,14 +165,10 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 749,
-                    "y": 83,
+                    "x": 925,
+                    "y": 143,
                     "uniqueID": 125816,
                     "ioValues": [
-                        {
-                            "name": "3D shape 729056",
-                            "ioValue": ""
-                        },
                         {
                             "name": "3D shape 293158",
                             "ioValue": 10
@@ -196,10 +192,6 @@
                         {
                             "name": "3D shape 374598",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 729056",
-                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -207,8 +199,8 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 938.0364298724954,
-                    "y": 123.1639344262295,
+                    "x": 1099,
+                    "y": 179,
                     "uniqueID": 721644,
                     "ioValues": [
                         {
@@ -278,6 +270,12 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "3D shape 205864",
+                    "ap1ID": 563922,
+                    "ap2ID": 125816
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "3D shape 710880",
                     "ap1ID": 649415,
                     "ap2ID": 125816
@@ -287,12 +285,6 @@
                     "ap2Name": "geometry",
                     "ap1ID": 649415,
                     "ap2ID": 416244
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 205864",
-                    "ap1ID": 563922,
-                    "ap2ID": 125816
                 },
                 {
                     "ap1Name": "geometry",

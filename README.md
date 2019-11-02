@@ -46,19 +46,19 @@ undefined
 ## Center
 
 
+undefined
+
+
 ## Sides
 
 
 ## Mounting Bolts
 
 
-## M4 Bolt
+## M4x20 Bolt
 
 
-## Head
-
-
-## Shaft
+undefined
 
 
 undefined
