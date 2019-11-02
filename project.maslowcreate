@@ -145,24 +145,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 356,
-                    "y": 106,
-                    "uniqueID": 201369,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 915082",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 835788",
-                            "ioValue": 10
-                        }
-                    ],
-                    "removeCutawayGeometry": true
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 328,
@@ -182,6 +164,24 @@
                             "ioValue": 4
                         }
                     ]
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 402,
+                    "y": 76,
+                    "uniqueID": 201369,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 915082",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 835788",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
                 },
                 {
                     "atomType": "Translate",
@@ -354,12 +354,6 @@
             "allConnectors": [
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 638544,
-                    "ap2ID": 493529
-                },
-                {
-                    "ap1Name": "Geometry",
                     "ap2Name": "3D shape 835788",
                     "ap1ID": 638544,
                     "ap2ID": 201369
@@ -399,6 +393,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 865209,
                     "ap2ID": 563922
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 201369,
+                    "ap2ID": 493529
                 },
                 {
                     "ap1Name": "geometry",
